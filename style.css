@@ -20,7 +20,7 @@ body{
     object-position:0;
 }
 .main{
-    background-color:rgba(red, green, blue, alpha);
+    background-color:rgba(0, 0, 0, 0.7);
     color:white;
     text-align: center;
     border-radius: 20px;
